@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\WP_9_3\WP_9_3\bin\Debug\WP_9_3.exe.config
+C:\Users\User\source\repos\WP_9_3\WP_9_3\bin\Debug\WP_9_3.exe
+C:\Users\User\source\repos\WP_9_3\WP_9_3\bin\Debug\WP_9_3.pdb
+C:\Users\User\source\repos\WP_9_3\WP_9_3\obj\Debug\WP_9_3.Form1.resources
+C:\Users\User\source\repos\WP_9_3\WP_9_3\obj\Debug\WP_9_3.Properties.Resources.resources
+C:\Users\User\source\repos\WP_9_3\WP_9_3\obj\Debug\WP_9_3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WP_9_3\WP_9_3\obj\Debug\WP_9_3.exe
+C:\Users\User\source\repos\WP_9_3\WP_9_3\obj\Debug\WP_9_3.pdb

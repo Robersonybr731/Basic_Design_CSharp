@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WP_14_4\WP_14_4\bin\Debug\WP_14_4.exe.config
+C:\Users\User\source\repos\WP_14_4\WP_14_4\bin\Debug\WP_14_4.exe
+C:\Users\User\source\repos\WP_14_4\WP_14_4\bin\Debug\WP_14_4.pdb
+C:\Users\User\source\repos\WP_14_4\WP_14_4\obj\Debug\WP_14_4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WP_14_4\WP_14_4\obj\Debug\WP_14_4.Form1.resources
+C:\Users\User\source\repos\WP_14_4\WP_14_4\obj\Debug\WP_14_4.Form2.resources
+C:\Users\User\source\repos\WP_14_4\WP_14_4\obj\Debug\WP_14_4.Properties.Resources.resources
+C:\Users\User\source\repos\WP_14_4\WP_14_4\obj\Debug\WP_14_4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WP_14_4\WP_14_4\obj\Debug\WP_14_4.exe
+C:\Users\User\source\repos\WP_14_4\WP_14_4\obj\Debug\WP_14_4.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\視窗程式設計\Week2\WP_2_1\WP_2_1\bin\Debug\WP_2_1.exe.config
+C:\Users\User\source\repos\視窗程式設計\Week2\WP_2_1\WP_2_1\bin\Debug\WP_2_1.exe
+C:\Users\User\source\repos\視窗程式設計\Week2\WP_2_1\WP_2_1\bin\Debug\WP_2_1.pdb
+C:\Users\User\source\repos\視窗程式設計\Week2\WP_2_1\WP_2_1\obj\Debug\WP_2_1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\視窗程式設計\Week2\WP_2_1\WP_2_1\obj\Debug\WP_2_1.Form1.resources
+C:\Users\User\source\repos\視窗程式設計\Week2\WP_2_1\WP_2_1\obj\Debug\WP_2_1.Properties.Resources.resources
+C:\Users\User\source\repos\視窗程式設計\Week2\WP_2_1\WP_2_1\obj\Debug\WP_2_1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\視窗程式設計\Week2\WP_2_1\WP_2_1\obj\Debug\WP_2_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\視窗程式設計\Week2\WP_2_1\WP_2_1\obj\Debug\WP_2_1.exe
+C:\Users\User\source\repos\視窗程式設計\Week2\WP_2_1\WP_2_1\obj\Debug\WP_2_1.pdb

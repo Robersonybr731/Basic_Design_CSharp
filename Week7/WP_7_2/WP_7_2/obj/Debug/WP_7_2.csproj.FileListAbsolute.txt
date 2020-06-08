@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\WP_7_2\WP_7_2\bin\Debug\WP_7_2.exe.config
+C:\Users\User\source\repos\WP_7_2\WP_7_2\bin\Debug\WP_7_2.exe
+C:\Users\User\source\repos\WP_7_2\WP_7_2\bin\Debug\WP_7_2.pdb
+C:\Users\User\source\repos\WP_7_2\WP_7_2\obj\Debug\WP_7_2.Form1.resources
+C:\Users\User\source\repos\WP_7_2\WP_7_2\obj\Debug\WP_7_2.Properties.Resources.resources
+C:\Users\User\source\repos\WP_7_2\WP_7_2\obj\Debug\WP_7_2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WP_7_2\WP_7_2\obj\Debug\WP_7_2.exe
+C:\Users\User\source\repos\WP_7_2\WP_7_2\obj\Debug\WP_7_2.pdb

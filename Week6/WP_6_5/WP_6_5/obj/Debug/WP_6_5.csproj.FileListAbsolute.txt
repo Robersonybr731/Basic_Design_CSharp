@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\WP_6_5\WP_6_5\bin\Debug\WP_6_5.exe.config
+C:\Users\User\source\repos\WP_6_5\WP_6_5\bin\Debug\WP_6_5.exe
+C:\Users\User\source\repos\WP_6_5\WP_6_5\bin\Debug\WP_6_5.pdb
+C:\Users\User\source\repos\WP_6_5\WP_6_5\obj\Debug\WP_6_5.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WP_6_5\WP_6_5\obj\Debug\WP_6_5.Form1.resources
+C:\Users\User\source\repos\WP_6_5\WP_6_5\obj\Debug\WP_6_5.Properties.Resources.resources
+C:\Users\User\source\repos\WP_6_5\WP_6_5\obj\Debug\WP_6_5.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WP_6_5\WP_6_5\obj\Debug\WP_6_5.exe
+C:\Users\User\source\repos\WP_6_5\WP_6_5\obj\Debug\WP_6_5.pdb

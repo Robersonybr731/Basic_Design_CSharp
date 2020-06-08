@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\WP_12_1\WP_12_1\bin\Debug\WP_12_1.exe.config
+C:\Users\User\source\repos\WP_12_1\WP_12_1\bin\Debug\WP_12_1.exe
+C:\Users\User\source\repos\WP_12_1\WP_12_1\bin\Debug\WP_12_1.pdb
+C:\Users\User\source\repos\WP_12_1\WP_12_1\obj\Debug\WP_12_1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WP_12_1\WP_12_1\obj\Debug\WP_12_1.Form1.resources
+C:\Users\User\source\repos\WP_12_1\WP_12_1\obj\Debug\WP_12_1.Properties.Resources.resources
+C:\Users\User\source\repos\WP_12_1\WP_12_1\obj\Debug\WP_12_1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WP_12_1\WP_12_1\obj\Debug\WP_12_1.exe
+C:\Users\User\source\repos\WP_12_1\WP_12_1\obj\Debug\WP_12_1.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\視窗作業HW6\視窗作業HW6\bin\Debug\視窗作業HW6.exe.config
+C:\Users\User\source\repos\視窗作業HW6\視窗作業HW6\bin\Debug\視窗作業HW6.exe
+C:\Users\User\source\repos\視窗作業HW6\視窗作業HW6\bin\Debug\視窗作業HW6.pdb
+C:\Users\User\source\repos\視窗作業HW6\視窗作業HW6\obj\Debug\視窗作業HW6.csprojAssemblyReference.cache
+C:\Users\User\source\repos\視窗作業HW6\視窗作業HW6\obj\Debug\視窗作業HW6.Form1.resources
+C:\Users\User\source\repos\視窗作業HW6\視窗作業HW6\obj\Debug\視窗作業HW6.Properties.Resources.resources
+C:\Users\User\source\repos\視窗作業HW6\視窗作業HW6\obj\Debug\視窗作業HW6.csproj.GenerateResource.cache
+C:\Users\User\source\repos\視窗作業HW6\視窗作業HW6\obj\Debug\視窗作業HW6.exe
+C:\Users\User\source\repos\視窗作業HW6\視窗作業HW6\obj\Debug\視窗作業HW6.pdb
